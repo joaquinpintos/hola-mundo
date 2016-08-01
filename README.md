@@ -1,2 +1,2 @@
 # hola-mundo
-pruebas básicas del uso de GitHub
+pruebas básicas del uso de GitHub.
